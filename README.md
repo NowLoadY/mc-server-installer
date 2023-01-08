@@ -70,4 +70,4 @@ Select from the following functions:
 Choice: 
 ```
 # :)
-If you are interested in this tool, please check [Link](https://github.com/matthew-salerno/mc-server-installer)  
+If you are interested in this tool, please check [Link](https://github.com/matthew-salerno/mc-server-installer)  and [Link](https://github.com/kz6fittycent/mc-server-installer)
