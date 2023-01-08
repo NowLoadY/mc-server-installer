@@ -1,38 +1,30 @@
-[![Snap Status](https://build.snapcraft.io/badge/kz6fittycent/mc-server-installer.svg)](https://build.snapcraft.io/user/kz6fittycent/mc-server-installer)
 
-
-# MC-Server-Installer
-A Minecraft server installer and configuration tool
-
-# README
-
-MC-SERVER-INSTALLER is not an officially supported or licensed application of Mojang.
-
-Select option #1 and the latest server.jar will be downloaded. Then, select option 2,
-and MC-SERVER-INSTALLER will perform a first run and agree to the EULA.
-
-### NO. THIS WON'T BE CHANGED! BECAUSE LEGAL STUFF...
-
-After selecting option #2, you can proceed with choosing any of the other options or
+**A Minecraft server installer and configuration tool**
+# Install:
+```bash
+sudo snap install mc-server-installer  
+```
+  
+# Run:
+This is a cl based tool, so you can just type this as follow in terminal.
+```bash
+mc-server-installer
+```
+* **Select option 1, the latest server.jar will be downloaded.**  
+* **Select option 2, it will perform a first run and agree to the EULA.** And you can proceed with choosing any of the other options or
 setting up your server's configuration, which is located in:
-
  ```
  ~/snap/mc-server-installer/current
  ```
-To update, just run option 1 again. No need to agree to the EULA. 
+# Notice
 
-
-This snap package was built from scratch with an MIT License, by kz6fittycent:
- 
+**This is not an officially supported or licensed application of Mojang.**
+  
+To make your server updated to a new version, just run option 1 again. No need to agree to the EULA. 
+  
+This snap package was built from scratch with an MIT License, by kz6fittycent:  
 https://github.com/kz6fittycent/mc-server-installer
- 
-------------------------------------------------------------------
-
-# To install:
-`sudo snap install mc-server-installer`
-
--------------------------------------------------------------------
-
+  
 # Sample
 
 ```
@@ -77,3 +69,5 @@ Select from the following functions:
 
 Choice: 
 ```
+# :)
+If you are interested in this tool, please check [Link](https://github.com/matthew-salerno/mc-server-installer)  
